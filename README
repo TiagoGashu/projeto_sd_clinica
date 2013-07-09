@@ -1,5 +1,19 @@
 Projeto da disciplina de SD
 
+só p/ lembrar o que temos que entregar no Sábado 
+-------------------------------------------------------------------------------------------------
+0) Capa (tema e equipes).
+1) Descrição da ideia e do problema a ser resolvido.
+2) Business Model preenchido, discutido e rediscutido.
+3) Arquitetura computacional (componentes, tecnologias e ferramentas).
+4) Plano de tolerância a falhas (lista de potenciais falhas e possíveis soluções).
+5) Divisão de atividades dentro do grupo.
+6) Demonstração de resultados preliminares (redução de risco).
+7) Repositório de código.
+8) Escalabilidade (10 ou 100 mil usuários concorrentes?)
+9) Referências.
+-------------------------------------------------------------------------------------------------
+
 Integrantes: Eduardo Padua, Luis Tacioli e Tiago Gashu
 
 Neste projeto implementaremos uma app para gerenciar uma clínica médica. Utilizaremos arquitetura cliente/servidor.
