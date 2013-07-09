@@ -16,4 +16,5 @@ só p/ lembrar o que temos que entregar no Sábado
 
 Integrantes: Eduardo Padua, Luis Tacioli e Tiago Gashu
 
-Neste projeto implementaremos uma app para gerenciar uma clínica médica. Utilizaremos arquitetura cliente/servidor.
+Neste projeto implementaremos uma app para gerenciar uma clínica médica. Utilizaremos arquitetura cliente/servidor e MVC. As funcionalidades principais para os médicos serão: gerenciamento de consultas, 
+prescrições, diagnósticos e exames de pacientes. Os pacientes poderão agendar consultas e consultar os exames solicitados pelo médico.
